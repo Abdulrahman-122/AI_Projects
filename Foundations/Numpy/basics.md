@@ -6,4 +6,4 @@
 
 
 
- Go to my kaggle: https://www.kaggle.com/code/abdo12qasim/numpy
+ Go to my kaggle:https://www.kaggle.com/code/abdo12qasim/numpy
