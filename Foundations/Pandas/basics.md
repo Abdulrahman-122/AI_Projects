@@ -27,4 +27,6 @@ Learn in this sequence:
 #Notes
 
 - this notebook till stage4(filtering): https://www.kaggle.com/code/abdo12qasim/pandas1
+- related to stage4: https://www.kaggle.com/code/abdo12qasim/pandas2
+- 
 
